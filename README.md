@@ -14,7 +14,13 @@ Weather App is a simple web application that allows users to search for the curr
 - HTML
 - CSS
 - JavaScript
+  
 
+## Screenshots
+
+![2024-06-03 (4)](https://github.com/HarshavarthanRbh/PRODIGY_WD_05/assets/171503008/8e872318-7b9c-4db2-a4c5-82d79161140e)
+
+![2024-06-03 (5)](https://github.com/HarshavarthanRbh/PRODIGY_WD_05/assets/171503008/3c59fc49-1a18-422a-99e7-9476282afa80)
 
 
 ## API KEY
